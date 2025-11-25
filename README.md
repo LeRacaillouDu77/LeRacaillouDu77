@@ -44,7 +44,7 @@
 
 ### 🔹 Projet 2 — *ZAPPY*
 *Jeu en réseau C++/Python avec des IAs intéractives*  
-➡️ [Voir le dépôt](#)
+➡️ [Voir le dépôt](https://github.com/LeRacaillouDu77/ZAPPY)
 
 ### 🔹 Projet 3 — *Jetpack*
 *Jeu type "Jetpack Joyride en C++ (SFML) multijoueur en réseau.*  
