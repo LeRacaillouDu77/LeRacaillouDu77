@@ -1,8 +1,8 @@
 # 👋 Salut, moi c’est **Anthony** !
 
 🎓 **Étudiant en troisème année à EPITECH MARSEILLE**  
-💻 Passionné par le **développement**, le **jeu-vidéo** et l'**IOT** 
-🚀 Toujours en train d’apprendre de nouvelles technologies et de créer des projets
+💻 Passionné par le **développement**, le **jeu-vidéo** et l'**IOT**  
+🚀 Toujours en train d’apprendre de nouvelles technologies et de créer des projets  
 
 ---
 
@@ -62,7 +62,7 @@
 ## 📫 Me contacter
 
 📧 **anthony.colombani-gailleur@epitech.eu**  
-🔗 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/anthony-colombani-gailleur-8317032b6))  
+🔗 [LinkedIn] https://www.linkedin.com/in/anthony-colombani-gailleur-8317032b6  
 
 ---
 
