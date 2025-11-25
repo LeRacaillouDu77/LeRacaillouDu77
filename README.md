@@ -1,7 +1,7 @@
 # 👋 Salut, moi c’est **Anthony** !
 
 🎓 **Étudiant en troisème année à EPITECH MARSEILLE**  
-💻 Passionné par le **développement**, le **jeu-vidéo** et l'**IOT**
+💻 Passionné par le **développement**, le **jeu-vidéo** et l'**IOT** 
 🚀 Toujours en train d’apprendre de nouvelles technologies et de créer des projets
 
 ---
