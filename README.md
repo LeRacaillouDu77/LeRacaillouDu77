@@ -52,13 +52,6 @@
 
 ---
 
-## 📊 Statistiques GitHub
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LeRacaillouDu77&show_icons=true)  
-![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=LeRacaillouDu77&layout=compact)
-
----
-
 ## 📫 Me contacter
 
 📧 **anthony.colombani-gailleur@epitech.eu**  
