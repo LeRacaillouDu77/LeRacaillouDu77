@@ -40,7 +40,7 @@
 
 ### 🔹 Projet 1 — *HADOKEN SIMULATOR*
 *Jeu type "Duck Hunt en C (CSFML)*  
-➡️ [Voir le dépôt](#)
+➡️ [Voir le dépôt](https://github.com/LeRacaillouDu77/HADOKEN-SIMULATOR)
 
 ### 🔹 Projet 2 — *ZAPPY*
 *Jeu en réseau C++/Python avec des IAs intéractives*  
