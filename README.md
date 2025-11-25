@@ -43,7 +43,7 @@
 ➡️ [Voir le dépôt](https://github.com/LeRacaillouDu77/HADOKEN-SIMULATOR)
 
 ### 🔹 Projet 2 — *ZAPPY*
-*Jeu en réseau C++/Python avec des IAs intéractives*  
+*Jeu en réseau C/C++/Python avec des IAs intéractives*  
 ➡️ [Voir le dépôt](https://github.com/LeRacaillouDu77/ZAPPY)
 
 ### 🔹 Projet 3 — *Jetpack*
